@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Multi-step Form
+> ''PROJETO EM ANDAMENTO''
+>> Início em = 23/02/2023
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Proposta do Desafio
+O Multi-step Form consiste em um projeto construído a partir do challenge proveniente do [FrontendMentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ), onde utilizei o design fornecido pela plataforma e elaborei este dormulário de várias etapas da forma mais fidedigna possível utilizando React, JavaScript, CSS e HTML, surgindo desta forma o 💻<LINK DO SITE>.
 
-## Available Scripts
+IMAGEM DO RESULTADO FINAL
 
-In the project directory, you can run:
+<br><br>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎯 Objetivos
+Elaborar o projeto de forma que se aproxime o máximo possivel da imagem de referência, afim de testar minhas habilidades de construção de formulários e JS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Seus usuários devem ser capazes de: 
+> - Conclua cada etapa da sequência;
+> - Volte para uma etapa anterior para atualizar suas seleções;
+> - Veja um resumo de suas seleções na etapa final e confirme seu pedido;
+> - Veja o layout ideal para a interface, dependendo do tamanho da tela do dispositivo;
+> - Veja os estados de focalização e foco para todos os elementos interativos na página;
+> - Receba mensagens de validação de formulário se:
+>> - Um campo foi perdido;
+>> - O endereço de e-mail não está formatado corretamente;
+>> - Uma etapa foi enviada, mas nenhuma seleção foi feita.
 
-### `npm test`
+<br><br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🧠 Dificuldades e o que aprendi
+Tive a oportunidade de consolidar e aprender mais sobre alguns conceitos de =
+> - HTML ().
+> - CSS ().
+> - JavaScript ().
+> - ReactJS ().
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Meu maior aprendizado neste projeto foi referente a ...
+<br><br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔧 Tecnologias utilizadas
+  > **ReactJS • JavaScript • HTML • CSS • Git**
+<div>
+  <a href="https://github.com/annaluizacamargo">
 
-### `npm run eject`
+  ![logo-react 1](https://user-images.githubusercontent.com/100868704/218358133-7e5bcdf6-c57f-4c8b-9c32-ce1417ea5b93.svg)
+  ![brand-javascript 1](https://user-images.githubusercontent.com/100868704/218358267-b46e966a-3fc6-439b-ac1e-caf61b086388.svg)
+  ![html5 1](https://user-images.githubusercontent.com/100868704/218358278-b5ecd208-b091-4442-989d-72bc7d0ef528.svg)
+  ![logo-css3 1](https://user-images.githubusercontent.com/100868704/218358284-7b9e67aa-0a83-4bc6-957a-019a23ff822b.svg)
+  ![git 1](https://user-images.githubusercontent.com/100868704/218358301-256ca99d-94f8-4c54-bcf2-233062c0685e.svg)
+</div>
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Rodando o projeto
+Para conferir a versão final é só acessar o link: 💻<LINK>.
+Observação: os testes referente ao layout e responsividade foram realizadas somente utilizando o Google Chrome, Android e Iphone.<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+VÍDEO DA APLICAÇÃO RODANDO
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br><br>
 
-## Learn More
+## 🌺 Forma de contato
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/">
+  <img align="left" alt="Anna-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100868704/219107511-ef3404d3-801a-4edf-9fe2-b65c2e43cb07.png">
+  Caso tenha alguma sugestão ou queira entrar em contato, fico a disposição 🥰💖
+</div>
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div>
+  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/annaluiza.711/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+<br><br>
