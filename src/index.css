@@ -6,9 +6,11 @@
 
 :root {
   /* TYPOGRAPHY */
-  /* Body Copy - Font size (paragraph): 16px */
-
   --font-ubuntu: 'Ubuntu', sans-serif;
+  --size-font: 16px;
+  --regular-weigth: 400;
+  --medium-weigth: 500;
+  --bold-weigth: 700;
 
   /* PRIMARY COLORS */
   --primary-marine-blue: hsl(213, 96%, 18%);
@@ -26,6 +28,7 @@
 }
 
 body {
+  font-size: var(--size-font);
   margin: 0;
   font-family: var(--font-ubuntu);
   -webkit-font-smoothing: antialiased;
