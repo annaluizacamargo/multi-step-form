@@ -1,0 +1,27 @@
+.stepsMenu {
+    background-color: red;
+}
+
+ul {
+    background-color: red;
+}
+
+li {
+    background-color: purple;
+}
+
+button {
+    background-color: blue;
+}
+
+p {
+    color: green;
+}
+
+h3 {
+    color: gray;
+}
+
+img {
+    width: 5em;
+}
