@@ -29,8 +29,10 @@ const StepsMenu = (props) => {
                     return (
                         <li key={step.stepNumber}>
                             <button>{step.stepNumber}</button>
-                            <p>STEP {step.stepNumber}</p>
-                            <h3>{step.stepText}</h3>
+                            <div className={style.stepsDescription}>
+                                <p>STEP {step.stepNumber}</p>
+                                <h3>{step.stepText}</h3>
+                            </div>
                         </li>
                     );
                 })}
