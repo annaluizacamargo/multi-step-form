@@ -1,11 +1,12 @@
 import ScrollToTop from "./components/ScrollToTop";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import StepsMenu from "./components/StepsMenu";
 
 function AppRoutes() {
   return (
     <BrowserRouter>
       <ScrollToTop />
-      <h1>Multi-steppp</h1>
+      <StepsMenu display='desktop'/>
     </BrowserRouter>
   );
 }
